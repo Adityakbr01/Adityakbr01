@@ -35,12 +35,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create ama
 - **React**
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-## 🌟 About Me
+#![Profile Views](https://komarev.com/ghpvc/?username=Adityakbr01&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm a web developer with a passion for building responsive and dynamic web applications. I love exploring new technologies and constantly enhancing my skills. When I'm not coding, you can find me reading tech blogs, experimenting with new tools, or contributing to open-source projects.
-
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
+## 👨‍💻 About Me:
+- 🔭 I’m currently working on **Track Back**
+- 🌱 I’m currently learning **React Native**
+- 💬 Ask me about **Web Development, MERN**
+- 📫 How to reach me **your-email@example.com**
+- ⚡ Fun fact **I am Funny**
 ---
 
 ## 📫 How to Reach Me
@@ -73,14 +75,7 @@ Thanks for stopping by! Feel free to explore my repositories and reach out if yo
 # Hi 👋, I'm Aditya Kbr
 A passionate frontend developer from India
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adityakbr01&label=Profile%20views&color=0e75b6&style=flat)
 
-## 👨‍💻 About Me:
-- 🔭 I’m currently working on **Track Back**
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **Web Development, MERN**
-- 📫 How to reach me **your-email@example.com**
-- ⚡ Fun fact **I am Funny**
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
