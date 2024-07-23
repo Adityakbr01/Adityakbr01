@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Web Developer](https://miro.medium.com/max/1200/1*8h2zDj-ugp1v-4GJeD8MQA.png)
+![Web Developer]([[https://miro.medium.com/max/1200/1*8h2zDj-ugp1v-4GJeD8MQA.png](https://images.app.goo.gl/TJng1ZNHqmRyh4v97)](https://images.app.goo.gl/TJng1ZNHqmRyh4v97))
 
 # Hi 👋, I'm Aditya Kbr
 A passionate frontend developer 
