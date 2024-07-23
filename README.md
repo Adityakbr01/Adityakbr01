@@ -47,8 +47,8 @@ I'm a web developer with a passion for building responsive and dynamic web appli
 ## 📫 How to Reach Me
 
 - **Email:** [your-email@example.com](mailto:aditykbr01@gmail.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [Your Twitter](https://twitter.com/your-profile)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/)
+- **Twitter:** [Your Twitter](https://twitter.com/)
 - **Portfolio:** [Your Portfolio](https://your-portfolio.com)
 
 ---
