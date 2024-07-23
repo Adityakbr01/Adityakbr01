@@ -58,26 +58,7 @@ I'm a web developer with a passion for building responsive and dynamic web appli
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
----
 
-## 🔍 Featured Repositories
-
-### [Project Name 1](https://github.com/your-username/project1)
-**Description:** A short description of what this project is about.  
-**Technologies:** HTML, CSS, JavaScript, React, TailwindCSS  
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=radical)
-
-### [Project Name 2](https://github.com/your-username/project2)
-**Description:** A short description of what this project is about.  
-**Technologies:** JavaScript, React, Node.js  
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=radical)
-
-### [Project Name 3](https://github.com/your-username/project3)
-**Description:** A short description of what this project is about.  
-**Technologies:** HTML, CSS, JavaScript, Firebase  
-![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project3&theme=radical)
-
----
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Have a great day! 😄
 
