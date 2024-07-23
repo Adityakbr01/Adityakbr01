@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create ama
 - **JavaScript**
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **React**
-
+ ⚛️
 ---
 
 ## 🌟 About Me
