@@ -38,18 +38,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create ama
 
 ## 👨‍💻 About Me:
 - 🔭 I’m currently working on **Track Back**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Full stack**
 - 💬 Ask me about **Web Development, MERN**
-- 📫 How to reach me **your-email@example.com**
-- ⚡ Fun fact **I am Funny**
+- 📫 How to reach me **aditykbr01@gmail.com**
+- ⚡ Fun fact **I am Funny  😄**
 ---
-
-## 📫 How to Reach Me
-
-- **Email:** [your-email@example.com](mailto:aditykbr01@gmail.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/)
-- **Twitter:** [Your Twitter](https://twitter.com/)
-- **Portfolio:** [Your Portfolio](https://your-portfolio.com)
 
 ---
 
