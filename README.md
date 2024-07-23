@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Web Developer]([[https://images.app.goo.gl/TJng1ZNHqmRyh4v97]))
+![Web Developer](https://images.app.goo.gl/TJng1ZNHqmRyh4v97)
 
 # Hi 👋, I'm Aditya Kbr
 A passionate frontend developer 
