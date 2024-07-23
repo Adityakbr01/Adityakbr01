@@ -46,7 +46,7 @@ I'm a web developer with a passion for building responsive and dynamic web appli
 
 ## 📫 How to Reach Me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [your-email@example.com](mailto:aditykbr01@gmail.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
 - **Twitter:** [Your Twitter](https://twitter.com/your-profile)
 - **Portfolio:** [Your Portfolio](https://your-portfolio.com)
@@ -55,8 +55,8 @@ I'm a web developer with a passion for building responsive and dynamic web appli
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakbr01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakbr01&layout=compact&theme=radical)
 
 
 
