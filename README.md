@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to create amazing web experiences. Here are some of the technologies and tools I enjoy working with:
+![Web Developer](https://miro.medium.com/max/1200/1*8h2zDj-ugp1v-4GJeD8MQA.png)
+
+# Hi 👋, I'm Aditya Kbr
+A passionate frontend developer 
 
 ---
 
