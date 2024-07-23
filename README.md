@@ -51,6 +51,8 @@ A passionate frontend developer
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakbr01&show_icons=true&hide_title=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakbr01&layout=compact&theme=dark&hide_title=true&hide_border=true)
+![React](https://img.shields.io/badge/React-%E2%9C%94-brightgreen)
+
 
 
 
