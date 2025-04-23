@@ -52,7 +52,18 @@ A passionate frontend developer
 - ⚡ Fun fact **I am Funny  😄**
 ---
 
----
+
+## 📦 My NPM Package
+
+[![NPM Downloads](https://img.shields.io/npm/dt/@aditya_kbr01/my-ui-cli?color=blue&label=my-ui-cli&logo=npm)](https://www.npmjs.com/package/@aditya_kbr01/my-ui-cli)
+
+📦 **[@aditya_kbr01/my-ui-cli](https://www.npmjs.com/package/@aditya_kbr01/my-ui-cli)**  
+A simple and customizable CLI tool to quickly scaffold and manage UI components for your projects.
+
+```bash
+npm install -g @aditya_kbr01/my-ui-cli  
+```
+-----
 
 ## 📊 GitHub Stats
 
