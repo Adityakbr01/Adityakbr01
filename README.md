@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 # Hi 👋, I'm Aditya Kbr
-A passionate frontend developer 
+A passionate frontend and backend developer 
 
 ---
 
