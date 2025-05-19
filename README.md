@@ -74,7 +74,7 @@ npm install -g @aditya_kbr01/create-stack-app
 npm install -g create-stack-app
 ```
 
-# Usage
+** Usage
 
 ```bash
 create-stack-app myApp
