@@ -53,7 +53,7 @@ A passionate frontend and backend developer
 ---
 
 
-## 📦 My NPM Package
+## 📦 My NPM Packages
 
 [![NPM Downloads](https://img.shields.io/npm/dt/@aditya_kbr01/my-ui-cli?color=blue&label=my-ui-cli&logo=npm)](https://www.npmjs.com/package/@aditya_kbr01/my-ui-cli)
 
@@ -62,6 +62,22 @@ A simple and customizable CLI tool to quickly scaffold and manage UI components 
 
 ```bash
 npm install -g @aditya_kbr01/my-ui-cli  
+```
+-----
+[![NPM Downloads](https://img.shields.io/npm/dt/@aditya_kbr01/create-stack-app?color=blue&label=my-ui-cli&logo=npm)](https://www.npmjs.com/package/@aditya_kbr01/create-stack-app)
+
+📦 **[@aditya_kbr01/my-ui-cli](https://www.npmjs.com/package/@aditya_kbr01/create-stack-app)**  
+A CLI tool to scaffold full-stack applications with MERN, MEVN, PERN, or T3 stacks. It generates complete project templates with client and server.
+
+```bash
+npm install -g @aditya_kbr01/create-stack-app
+npm install -g create-stack-app
+```
+
+# Usage
+
+```bash
+create-stack-app myApp
 ```
 -----
 
