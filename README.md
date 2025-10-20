@@ -16,6 +16,17 @@ BCA Student, Batch 2024-2027
   <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+
+  <!-- Additional Badges -->
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/BullMQ-EA1B22?logo=redis&logoColor=white" alt="BullMQ"/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-000?logo=shadcnui&logoColor=white" alt="Shadcn UI"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/Single_Device_Login-0069D9?logo=auth0&logoColor=white" alt="Single Device Login"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-333?logo=linux&logoColor=white" alt="Linux"/>
 </p>
 
 ---
@@ -27,7 +38,9 @@ Detail-oriented Software Engineer experienced in full-stack web development usin
 
 **Technical Skills:**  
 - JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB  
+- JWT Authentication, Redis, BullMQ, Shadcn UI, Socket.io, Single Device Login  
 - Web Development, REST API Design, Responsive User Interface  
+- Docker, Linux, Postman  
 - SaaS Solutions, Open Source Contributions  
 - NPM Package Development
 
