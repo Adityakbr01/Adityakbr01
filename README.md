@@ -4,6 +4,17 @@ BCA Student, Batch 2024-2027
 
 ---
 
+<!-- Profile Stats & GitHub Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Adityakbr01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Adityakbr01?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/Adityakbr01/Saas_cohort_management?label=Stars&style=flat&logo=github" alt="Repo Stars"/>
+  <img src="https://img.shields.io/github/forks/Adityakbr01/Saas_cohort_management?label=Forks&style=flat&logo=github" alt="Repo Forks"/>
+  <img src="https://img.shields.io/github/contributors/Adityakbr01/Saas_cohort_management?label=Contributors&style=flat" alt="Repo Contributors"/>
+</p>
+
+---
+
 <!-- Technology Badges -->
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -16,7 +27,6 @@ BCA Student, Batch 2024-2027
   <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
-
   <!-- Additional Badges -->
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
